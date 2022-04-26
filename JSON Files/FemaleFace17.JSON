@@ -1,0 +1,2254 @@
+{
+    "threeDModel": "FemaleFace17",
+    "gender": "",
+    "age": "",
+    "features": [
+        {
+            "id": "Alar_Crest/Alar_Curvature/Alar_Base_Junction/Alar-Facial_Groove/Alar-Cheek_Junction/Alar_Crease_left",
+            "name": "Alar Base Junction/Alar Crease - left",
+            "abbrv": "ac_l",
+            "list": "Y",
+            "imageFile": "feature_point_alar_crest_left-basal.png",
+            "description": "The junction between the left alar crease and the cheek.",
+            "references": "(10)",
+            "usedInMeasurements": [
+                "Ala/Alar_Length_(left)",
+                "Ala/Alar_Length_(left)_Surface",
+                "Alar_Base_Width",
+                "Alar_Base_Width_Surface",
+                "Premaxilla_-_left",
+                "Premaxilla_-_left_Surface",
+                "Lobule_-_Base_Ratio",
+                "Nasal_Tip_Projection:_Byrd_and_Hobar",
+                "Nasal_Tip_Projection:_Goode"
+            ],
+            "xVal": 18.65,
+            "yVal": -26.35,
+            "zVal": 87.67,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Alar_Crest/Alar_Curvature/Alar_Base_Junction/Alar-Facial_Groove/Alar-Cheek_Junction/Alar_Crease_right",
+            "name": "Alar Base Junction/Alar Crease - right",
+            "abbrv": "ac_r",
+            "list": "Y",
+            "imageFile": "feature_point_alar_crest_right-basal.png",
+            "description": "The junction between the right alar crease and the cheek.",
+            "references": "(10)",
+            "usedInMeasurements": [
+                "Ala/Alar_Length_(right)",
+                "Alar_Base_Width",
+                "Alar_Base_Width_Surface",
+                "Premaxilla_-_right",
+                "Premaxilla_-_right_Surface",
+                "Lobule_-_Base_Ratio"
+            ],
+            "xVal": -16.97,
+            "yVal": -27.68,
+            "zVal": 87.09,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Alar_Ridge's_Highest_Point_left",
+            "name": "Alar Rim’s Highest Point - left",
+            "abbrv": "armax_l",
+            "list": "Y",
+            "imageFile": "feature_point_alar_rim_highest_point_left-lateral.png",
+            "description": "The highest point of the left alar rim.",
+            "references": "(10, 11)",
+            "usedInMeasurements": [
+                "Columella-Alar_Distance_-_left",
+                "Columella-Alar_Distance_-_left_Surface"
+            ],
+            "xVal": 12.61,
+            "yVal": -29.42,
+            "zVal": 91,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Alar_Ridge's_Highest_Point_right",
+            "name": "Alar Rim’s Highest Point - right",
+            "abbrv": "armax_r",
+            "list": "Y",
+            "imageFile": "feature_point_alar_rim_highest_point_right-lateral.png",
+            "description": "The highest point of the right alar rim.",
+            "references": "(10, 11)",
+            "usedInMeasurements": [
+                "Columella-Alar_Distance_-_right",
+                "Columella-Alar_Distance_-_right_Surface"
+            ],
+            "xVal": -13.31,
+            "yVal": -26.9,
+            "zVal": 90.8,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Alare/Alar_Flare_left",
+            "name": "Alare/Alar Flare - left",
+            "abbrv": "al_l",
+            "list": "Y",
+            "imageFile": "feature_point_alare_alar_flare_left-frontal.png",
+            "description": "The most lateral point on the left ala of the nose.",
+            "references": "(10)",
+            "usedInMeasurements": [
+                "Interalar_Distance",
+                "Interalar_Distance_Surface",
+                "Interalar_Angle",
+                "Nasal_Width–Intercanthal_Distance_Ratio",
+                "Nasal_Width-Length_Ratio"
+            ],
+            "xVal": 14.46,
+            "yVal": -26.55,
+            "zVal": 91.4,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Alare/Alar_Flare_right",
+            "name": "Alare/Alar Flare - right",
+            "abbrv": "al_r",
+            "list": "Y",
+            "imageFile": "feature_point_alare_alar_flare_right-frontal.png",
+            "description": "The most lateral point on the right ala of the nose.",
+            "references": "(10)",
+            "usedInMeasurements": [
+                "Interalar_Distance",
+                "Interalar_Distance_Surface",
+                "Interalar_Angle",
+                "Nasal_Width–Intercanthal_Distance_Ratio",
+                "Nasal_Width-Length_Ratio"
+            ],
+            "xVal": -8.5,
+            "yVal": -26.16,
+            "zVal": 96.13,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Anterior/Superior_Point_of_Nostril/Columella_Point_left",
+            "name": "Anterior Point of Nostril/Columella Junction left",
+            "abbrv": "stn_l",
+            "list": "Y",
+            "imageFile": "feature_point_anterior_point_of_the_nostril_left-basal.png",
+            "description": "The point where the left ala meets the upper end of the columella.",
+            "references": "(12)",
+            "usedInMeasurements": [
+                "Interaxial_Angle_(Nostril_Inclination)"
+            ],
+            "xVal": 8.76,
+            "yVal": -28.86,
+            "zVal": 95.65,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Anterior/Superior_Point_of_Nostril/Columella_Point_right",
+            "name": "Anterior Point of Nostril/Columella Junction right",
+            "abbrv": "stn_r",
+            "list": "Y",
+            "imageFile": "feature_point_anterior_point_of_the_nostril_right-basal.png",
+            "description": "The point where the right ala meets the upper end of the columella.",
+            "references": "(12)",
+            "usedInMeasurements": [
+                "Interaxial_Angle_(Nostril_Inclination)"
+            ],
+            "xVal": -7.24,
+            "yVal": -28.55,
+            "zVal": 94.81,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Cheilion_left",
+            "name": "Cheilion - left",
+            "abbrv": "ch_l",
+            "list": "Y",
+            "imageFile": "feature_point_cheilion_left-basal.png",
+            "description": "A landmark located at the oral commissure where the upper and lower lips meet on left side of the gently closed lips.",
+            "references": "(14)",
+            "usedInMeasurements": [
+                "Mouth/Lips_Width",
+                "Mouth/Lips_Width_Surface"
+            ],
+            "xVal": 27.68,
+            "yVal": -61.59,
+            "zVal": 73.58,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Cheilion_right",
+            "name": "Cheilion - right",
+            "abbrv": "ch_r",
+            "list": "Y",
+            "imageFile": "feature_point_cheilion_right-basal.png",
+            "description": "A landmark located at the oral commissure where the upper and lower lips meet on the right side of the gently closd lips.",
+            "references": "(14)",
+            "usedInMeasurements": [
+                "Mouth/Lips_Width",
+                "Mouth/Lips_Width_Surface"
+            ],
+            "xVal": -26.59,
+            "yVal": -63.85,
+            "zVal": 73.44,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Columellar_Break_Point",
+            "name": "Columellar Break Point",
+            "abbrv": "cb",
+            "list": "Y",
+            "imageFile": "feature_point_columellar_break_point-lateral(l).png",
+            "description": "The point in the columellar region of the nose where the tip of the nose stops curving and the columellar linear structure begins, in the midline.",
+            "references": "(15, 16)",
+            "usedInMeasurements": [
+                "Columella_Length",
+                "Columella_Length_Surface",
+                "Infratip_Lobule/Infralobule",
+                "Infratip_Lobule/Infralobule_Surface",
+                "Columellar_Labial_Angle",
+                "Columellar_Lobular_Angle"
+            ],
+            "xVal": 0.98,
+            "yVal": -30.46,
+            "zVal": 100.3,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Columella's_Lowest_Point_left",
+            "name": "Columellar Rim - left",
+            "abbrv": "cmin_l",
+            "list": "Y",
+            "imageFile": "feature_point_left_columellar_rim-lateral(l).png",
+            "description": "Lowest point (or widest point) of left nostril as seen from the lateral view on the columellar side at the mucocutaneous junction.",
+            "references": "(11)",
+            "usedInMeasurements": [
+                "Columella-Alar_Distance_-_left",
+                "Columella-Alar_Distance_-_left_Surface"
+            ],
+            "xVal": 9.06,
+            "yVal": -31.67,
+            "zVal": 90.93,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Columella's_Lowest_Point_right",
+            "name": "Columellar Rim - right",
+            "abbrv": "cmin_r",
+            "list": "Y",
+            "imageFile": "feature_point_right_columellar_rim-lateral(l).png",
+            "description": "Lowest point (or widest point) of right nostril as seen from the lateral view on the columellar side at the mucocutaneous junction.",
+            "references": "(11)",
+            "usedInMeasurements": [
+                "Columella-Alar_Distance_-_right",
+                "Columella-Alar_Distance_-_right_Surface"
+            ],
+            "xVal": -6.61,
+            "yVal": -31.16,
+            "zVal": 91.75,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Endocanthion/Medial_Canthus_left",
+            "name": "Endocanthion/Medial Canthus - left",
+            "abbrv": "en_l",
+            "list": "Y",
+            "imageFile": "feature_point_endocanthion_left-frontal.png",
+            "description": "The inner corner of the left eye where the upper and lower eyelids meet.",
+            "references": "(18, 19)",
+            "usedInMeasurements": [
+                "(Inner)_Intercanthal_Distance/Width",
+                "(Inner)_Intercanthal_Distance/Width_Surface",
+                "Left_Eye_Width",
+                "Left_Eye_Width_Surface",
+                "Nasal_Width–Intercanthal_Distance_Ratio"
+            ],
+            "xVal": 21.85,
+            "yVal": 17.15,
+            "zVal": 73.91,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Endocanthion/Medial_Canthus_right",
+            "name": "Endocanthion/Medial Canthus - right",
+            "abbrv": "en_r",
+            "list": "Y",
+            "imageFile": "feature_point_endocanthion_right-frontal.png",
+            "description": "The inner corner of the right eye where the upper and lower eyelids meet.",
+            "references": "(18, 19)",
+            "usedInMeasurements": [
+                "(Inner)_Intercanthal_Distance/Width",
+                "(Inner)_Intercanthal_Distance/Width_Surface",
+                "Right_Eye_Width",
+                "Right_Eye_Width_Surface",
+                "Nasal_Width–Intercanthal_Distance_Ratio"
+            ],
+            "xVal": -17.46,
+            "yVal": 14.95,
+            "zVal": 73.4,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Exocanthion/Lateral_Canthus_left",
+            "name": "Exocanthion/Lateral Canthus - left",
+            "abbrv": "ex_l",
+            "list": "Y",
+            "imageFile": "feature_point_exocanthion_left-frontal.png",
+            "description": "The outer corner of the left eye where the upper and lower eyelids meet.",
+            "references": "(18, 19)",
+            "usedInMeasurements": [
+                "Left_Eye_Width",
+                "Left_Eye_Width_Surface",
+                "Outer_Intercanthal_Distance",
+                "Outer_Intercanthal_Distance_Surface"
+            ],
+            "xVal": 55.23,
+            "yVal": 15.9,
+            "zVal": 67.04,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Exocanthion/Lateral_Canthus_right",
+            "name": "Exocanthion/Lateral Canthus - right",
+            "abbrv": "ex_r",
+            "list": "Y",
+            "imageFile": "feature_point_exocanthion_right-frontal.png",
+            "description": "The outer corner of the right eye where the upper and lower eyelids meet.",
+            "references": "(18,19)",
+            "usedInMeasurements": [
+                "Outer_Intercanthal_Distance",
+                "Outer_Intercanthal_Distance_Surface",
+                "Right_Eye_Width",
+                "Right_Eye_Width_Surface"
+            ],
+            "xVal": -52.45,
+            "yVal": 17.94,
+            "zVal": 67.52,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Glabella",
+            "name": "Glabella",
+            "abbrv": "g",
+            "list": "Y",
+            "imageFile": "feature_point_glabella-lateral(l).png",
+            "description": "The most prominent point of the forehead in the midline between the eyebrows.",
+            "references": "(20)",
+            "usedInMeasurements": [
+                "Mid-Facial_Height",
+                "Mid-Facial_Height_Surface",
+                "Upper_Facial_Height",
+                "Nasofrontal_Angle",
+                "Nasolabial_Angle_IV",
+                "Total_Facial_Convexity_Angle"
+            ],
+            "xVal": -1.58,
+            "yVal": 49.27,
+            "zVal": 81.68,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Maxilloanteriorale_left",
+            "name": "Maxilloanteriorale - left",
+            "abbrv": "ma_l",
+            "list": "Y",
+            "imageFile": "feature_point_maxilloanteriorale_left-frontal.png",
+            "description": "The point where the left maxilloanterioral and nasoanterioral sutures meet",
+            "references": "(9, 25, 26)",
+            "usedInMeasurements": [
+                "Nasal_Root_Width",
+                "Nasal_Root_Width_Surface"
+            ],
+            "xVal": 14.42,
+            "yVal": -1.98,
+            "zVal": 80.79,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Maxilloanteriorale_right",
+            "name": "Maxilloanteriorale - right",
+            "abbrv": "ma_r",
+            "list": "Y",
+            "imageFile": "feature_point_maxilloanteriorale_right-frontal.png",
+            "description": "The point where the right maxilloanterioral and nasoanterioral sutures meet",
+            "references": "(9, 25, 26)",
+            "usedInMeasurements": [
+                "Nasal_Root_Width",
+                "Nasal_Root_Width_Surface"
+            ],
+            "xVal": -11.92,
+            "yVal": -6.03,
+            "zVal": 83.22,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Maxillofrontale_left",
+            "name": "Maxillofrontale - left",
+            "abbrv": "mf_l",
+            "list": "Y",
+            "imageFile": "feature_point_maxillofrontale_left-frontal.png",
+            "description": "The soft tissue point located at the left lateral margin of the base of the nasal root at the level of the endocanthion.",
+            "references": "(33)",
+            "usedInMeasurements": [
+                "Nasal_Root_Width",
+                "Dorsal_aesthetic_line_width_at_intercanthal_distance_to_interphiltral_width_ratio"
+            ],
+            "xVal": 9.35,
+            "yVal": 17.11,
+            "zVal": 75.87,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Maxillofrontale_right",
+            "name": "Maxillofrontale - right",
+            "abbrv": "mf_r",
+            "list": "Y",
+            "imageFile": "feature_point_maxillofrontale_right-frontal.png",
+            "description": "The soft tissue point located at the right lateral margin of the base of the nasal root at the level of the endocanthion.",
+            "references": "(33)",
+            "usedInMeasurements": [
+                "Nasal_Root_Width",
+                "Dorsal_aesthetic_line_width_at_intercanthal_distance_to_interphiltral_width_ratio"
+            ],
+            "xVal": -8.7,
+            "yVal": 17.05,
+            "zVal": 75.56,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Menton/Gnathion",
+            "name": "Menton/Gnathion",
+            "abbrv": "me",
+            "list": "Y",
+            "imageFile": "feature_point_menton-lateral(l).png",
+            "description": "Lowest point on the soft tissue proﬁle of the chin in mid-sagittal plane.",
+            "references": "(18, 27)",
+            "usedInMeasurements": [
+                "Face_Length/Height",
+                "Face_Length/Height_Surface",
+                "Height_of_the_Mandible/Chin_Height",
+                "Height_of_the_Mandible/Chin_Height_Surface",
+                "Lower_Facial_Height",
+                "Lower_Facial_Height_Surface",
+                "Mentocervical_Angle",
+                "Nasal_Tip_Projection:_Crumley_and_Lanser_II"
+            ],
+            "xVal": -0.58,
+            "yVal": -104.62,
+            "zVal": 83.09,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Nasal_Parenthesis_left",
+            "name": "Nasal Parenthesis - left",
+            "abbrv": "np_l",
+            "list": "Y",
+            "imageFile": "feature_point_nasal_parenthesis_left-frontal.png",
+            "description": "The summit of the left nasal parentheses/canthal-alar line.",
+            "references": "(30)",
+            "usedInMeasurements": [
+                "Base_Bony_Width_Surface",
+                "Base_Bony_Width"
+            ],
+            "xVal": 15.39,
+            "yVal": -3.26,
+            "zVal": 80.91,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Nasal_Parenthesis_right",
+            "name": "Nasal Parenthesis - right",
+            "abbrv": "np_r",
+            "list": "Y",
+            "imageFile": "feature_point_nasal_parenthesis_right-frontal.png",
+            "description": "The summit of the right nasal parentheses/canthal-alar line.",
+            "references": "(30)",
+            "usedInMeasurements": [
+                "Base_Bony_Width_Surface",
+                "Base_Bony_Width"
+            ],
+            "xVal": -15.63,
+            "yVal": -2.47,
+            "zVal": 79.98,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Nasion/Radix",
+            "name": "Nasion/Radix",
+            "abbrv": "n",
+            "list": "Y",
+            "imageFile": "feature_point_nasion-lateral(l).png",
+            "description": "The midpoint of the nasofrontal suture line where the frontal bone and nasal bones join.",
+            "references": "(22)",
+            "usedInMeasurements": [
+                "Nasal_Bridge_Length",
+                "Nasal_Bridge_Length_Surface",
+                "Nose_Height",
+                "Nose_Height_Surface",
+                "Radix_Depth",
+                "Radix_Depth_Surface",
+                "Degree_of_Deviation_(C-type)",
+                "Degree_of_Deviation_(I-type)",
+                "Nasal_Tip_Angle",
+                "Nasofacial_Angle",
+                "Nasofrontal_Angle",
+                "Nasomental_Angle",
+                "Nasal_Tip_Projection:_Baum",
+                "Nasal_Tip_Projection:_Byrd_and_Hobar",
+                "Nasal_Tip_Projection:_Crumley_and_Lanser_I",
+                "Nasal_Tip_Projection:_Crumley_and_Lanser_II",
+                "Nasal_Tip_Projection:_Goode",
+                "Nasal_Tip_Projection:_Powell_and_Humphries",
+                "Nasal_Width-Length_Ratio"
+            ],
+            "xVal": 1.28,
+            "yVal": 20.17,
+            "zVal": 77.8,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Posterior/Inferior_Point_of_Nostril_left",
+            "name": "Posterior Point of Nostril - left",
+            "abbrv": "itn_l",
+            "list": "Y",
+            "imageFile": "feature_point_posterior_point_of_the_nostril_left-basal.png",
+            "description": "The point where the left ala meets the nostril floor at a point corresponding to sbal.",
+            "references": "(12)",
+            "usedInMeasurements": [
+                "Interaxial_Angle_(Nostril_Inclination)",
+                "Nasolabial_Angle_IV"
+            ],
+            "xVal": 14.37,
+            "yVal": -29.61,
+            "zVal": 89.83,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Posterior/Inferior_Point_of_Nostril_right",
+            "name": "Posterior Point of Nostril - right",
+            "abbrv": "itn_r",
+            "list": "Y",
+            "imageFile": "feature_point_posterior_point_of_the_nostril_right-basal.png",
+            "description": "The point where the right ala meets the nostril floor at a point corresponding to sbal.",
+            "references": "(12)",
+            "usedInMeasurements": [
+                "Interaxial_Angle_(Nostril_Inclination)",
+                "Nasolabial_Angle_IV"
+            ],
+            "xVal": -10.83,
+            "yVal": -31,
+            "zVal": 89.8,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Pronasale/Tip",
+            "name": "Pronasale/Tip",
+            "abbrv": "prn",
+            "list": "Y",
+            "imageFile": "feature_point_pronasale_tip-lateral(l).png",
+            "description": "The most protrusive point on the nasal tip in the midline.",
+            "references": "(18)",
+            "usedInMeasurements": [
+                "Ala/Alar_Length_(left)",
+                "Ala/Alar_Length_(right)",
+                "Ala/Alar_Length_(right)_Surface",
+                "Infratip_Lobule/Infralobule",
+                "Infratip_Lobule/Infralobule_Surface",
+                "Nasal_Bridge_Length",
+                "Nasal_Bridge_Length_Surface",
+                "Nasal_Tip_Projection",
+                "Nasal_Tip_Projection_Surface",
+                "Supratip_Lobule",
+                "Supratip_Lobule_Surface",
+                "Columellar_Lobular_Angle",
+                "Degree_of_Deviation_(C-type)",
+                "Degree_of_Deviation_(I-type)",
+                "Interalar_Angle",
+                "Mentocervical_Angle",
+                "Nasal_Tip_Angle",
+                "Nasofacial_Angle",
+                "Nasofrontal_Angle",
+                "Nasolabial_Angle_I",
+                "Nasomental_Angle",
+                "Total_Facial_Convexity_Angle",
+                "Nasal_Tip_Projection:_Baum",
+                "Nasal_Tip_Projection:_Byrd_and_Hobar",
+                "Nasal_Tip_Projection:_Crumley_and_Lanser_I",
+                "Nasal_Tip_Projection:_Crumley_and_Lanser_II",
+                "Nasal_Tip_Projection:_Goode",
+                "Nasal_Tip_Projection:_Powell_and_Humphries",
+                "Nasal_Tip_Projection:_Simons",
+                "Nasal_Width-Length_Ratio"
+            ],
+            "xVal": 2.93,
+            "yVal": -19.59,
+            "zVal": 104.25,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Rhinion",
+            "name": "Rhinion",
+            "abbrv": "r",
+            "list": "Y",
+            "imageFile": "feature_point_rhinion-frontal.png",
+            "description": "Osseocartilaginous junction. A craniometric point corresponding to the lower end of the suture between the two nasal bones.",
+            "references": "(32)",
+            "usedInMeasurements": [
+                "Kyphion_Angle"
+            ],
+            "xVal": 1.19,
+            "yVal": -3.16,
+            "zVal": 92.01,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Sellion",
+            "name": "Sellion",
+            "abbrv": "se",
+            "list": "Y",
+            "imageFile": "feature_point_sellion-frontal.png",
+            "description": "The deepest depression of the nasal bones and often coincides with soft tissue nasion.",
+            "references": "(22)",
+            "usedInMeasurements": [
+                "Angle_of_Sellion_left",
+                "Angle_of_Sellion_right",
+                "Nasal_Root_Depth/Length_Index"
+            ],
+            "xVal": -0.7,
+            "yVal": 25.32,
+            "zVal": 77.65,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Sill-Base Junction_left",
+            "name": "Sill-base junction - left",
+            "abbrv": "sbj_l",
+            "list": "Y",
+            "imageFile": "feature_point_sill_base_junction_left.png",
+            "description": "The point where the alar base meets the nasal sill along the nostril.",
+            "references": "(10)",
+            "usedInMeasurements": [
+                "Distance_between_sill_base_junction_and_alar_flare",
+                "Distance_between_sill_base_junction_and_alar_flare_Surface"
+            ],
+            "xVal": 12.89,
+            "yVal": -32.88,
+            "zVal": 87.99,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Sill-Base Junction_right",
+            "name": "Sill-base junction - right",
+            "abbrv": "sbj_r",
+            "list": "Y",
+            "imageFile": "feature_point_sill_base_junction_left.png",
+            "description": "The point where the alar base meets the nasal sill along the nostril.",
+            "references": "(10)",
+            "usedInMeasurements": [],
+            "xVal": -11.6,
+            "yVal": -31.73,
+            "zVal": 89.07,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Stomion",
+            "name": "Stomion",
+            "abbrv": "sto",
+            "list": "Y",
+            "imageFile": "feature_point_stomion-frontal.png",
+            "description": "Point at which the upper and lower lip make contact. Located along the labial fissure in the midline.",
+            "references": "(18, 34)",
+            "usedInMeasurements": [
+                "Height_of_the_Mandible/Chin_Height",
+                "Height_of_the_Mandible/Chin_Height_Surface",
+                "Lower_Lip_Height",
+                "Lower_Lip_Height_Surface",
+                "Upper_Lip_Height",
+                "Upper_Lip_Height_Surface"
+            ],
+            "xVal": -0.74,
+            "yVal": -61.47,
+            "zVal": 90.52,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Subalare_left",
+            "name": "Subalare - left",
+            "abbrv": "sbal_l",
+            "list": "Y",
+            "imageFile": "feature_point_subalare_left-basal.png",
+            "description": "The point at the lower limit of each alar base, where the alar base disappears into skin of the upper lip. A bilateral landmark located below the nostril opening at the point where the infero-medial continuation of the alar cartilage inserts into the skin of the upper lip.",
+            "references": "(35, 36)",
+            "usedInMeasurements": [
+                "Nostril_Floor_Width_(left)",
+                "Nostril_Floor_Width_(left)_Surface",
+                "Subnasal_Width",
+                "Subnasal_Width_Surface"
+            ],
+            "xVal": 14.8,
+            "yVal": -31.77,
+            "zVal": 88.11,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Subalare_right",
+            "name": "Subalare - right",
+            "abbrv": "sbal_r",
+            "list": "Y",
+            "imageFile": "feature_point_subalare_right-basal.png",
+            "description": "The point at the lower limit of each alar base, where the alar base disappears into skin of the upper lip. A bilateral landmark located below the nostril opening at the point where the infero-medial continuation of the alar cartilage inserts into the skin of the upper lip.",
+            "references": "(35, 36)",
+            "usedInMeasurements": [
+                "Nostril_Floor_Width_(right)",
+                "Nostril_Floor_Width_(right)_Surface",
+                "Subnasal_Width",
+                "Subnasal_Width_Surface"
+            ],
+            "xVal": -11.21,
+            "yVal": -32.08,
+            "zVal": 88.77,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Subnasale_left",
+            "name": "Subnasale - left",
+            "abbrv": "sn_l",
+            "list": "Y",
+            "imageFile": "feature_point_subnasale_left-basal.png",
+            "description": "Indicates the midpoint of the left columella crest where the thickness of the columella (sn'-sn') is measured.",
+            "references": "(12)",
+            "usedInMeasurements": [
+                "Columella_Width_I_Surface",
+                "Columella_Width_I",
+                "Angle_of_Subnasale_left"
+            ],
+            "xVal": 9.89,
+            "yVal": -32.02,
+            "zVal": 89.91,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Subnasale_right",
+            "name": "Subnasale - right",
+            "abbrv": "sn_r",
+            "list": "Y",
+            "imageFile": "feature_point_subnasale_right-basal.png",
+            "description": "Indicates the midpoint of the right columella crest where the thickness of the columella (sn'-sn') is measured.",
+            "references": "(12)",
+            "usedInMeasurements": [
+                "Columella_Width_I_Surface",
+                "Columella_Width_I",
+                "Angle_of_Subnasale_right"
+            ],
+            "xVal": -6.02,
+            "yVal": -31.12,
+            "zVal": 92.19,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Subnasale",
+            "name": "Subnasale",
+            "abbrv": "sn",
+            "list": "Y",
+            "imageFile": "feature_point_subnasale-basal.png",
+            "description": "The midpoint of the columella base. The deepest point at the junction of the base of the columella and the upper lip in the midline. Located at the apex of the nasolabial angle in the midline, where the inferior border of the nasal septum meets the skin of the upper lip.",
+            "references": "(20)",
+            "usedInMeasurements": [
+                "Columella_Length_Surface",
+                "Columella_Length",
+                "Lower_Facial_Height",
+                "Lower_Facial_Height_Surface",
+                "Mid-Facial_Height",
+                "Mid-Facial_Height_Surface",
+                "Nasal_Tip_Projection",
+                "Nasal_Tip_Projection_Surface",
+                "Nose_Height",
+                "Nose_Height_Surface",
+                "Nostril_Floor_Width_(left)",
+                "Nostril_Floor_Width_(left)_Surface",
+                "Nostril_Floor_Width_(right)",
+                "Nostril_Floor_Width_(right)_Surface",
+                "Premaxilla_-_left",
+                "Premaxilla_-_left_Surface",
+                "Premaxilla_-_right",
+                "Premaxilla_-_right_Surface",
+                "Upper_Lip_Height",
+                "Upper_Lip_Height_Surface",
+                "Columellar_Labial_Angle",
+                "Columellar_Lobular_Angle",
+                "Nasal_Tip_Angle",
+                "Nasolabial_Angle_I",
+                "Nasal_Tip_Projection:_Baum",
+                "Nasal_Tip_Projection:_Powell_and_Humphries",
+                "Nasal_Tip_Projection:_Simons"
+            ],
+            "xVal": -0.81,
+            "yVal": -37.69,
+            "zVal": 89.68,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Supratip_Break_Point",
+            "name": "Supratip Break Point",
+            "abbrv": "s",
+            "list": "Y",
+            "imageFile": "feature_point_supratip_break_point-lateral(l).png",
+            "description": "The area just cephalad to the nasal tip at the caudal portion of the nasal dorsum.",
+            "references": "(38)",
+            "usedInMeasurements": [
+                "Supratip_Lobule",
+                "Supratip_Lobule_Surface"
+            ],
+            "xVal": 3.87,
+            "yVal": -5.13,
+            "zVal": 92.9,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Tip_Defining_Point_left",
+            "name": "Tip Defining Point - left",
+            "abbrv": "td_l",
+            "list": "Y",
+            "imageFile": "feature_point_tip_defining_point_left-frontal.png",
+            "description": "The nasal tip defining point (TDP) is the most anterior projection of the tip cartilages, usually corresponding to the apex of the lobular arch anatomically, and is typically identified externally where the light reflex is seen on the nasal tip.",
+            "references": "(39)",
+            "usedInMeasurements": [
+                "Tip/Lobule_Width",
+                "Tip/Lobule_Width_Surface",
+                "Lobule_-_Base_Ratio"
+            ],
+            "xVal": 5.78,
+            "yVal": -24.47,
+            "zVal": 103.2,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Tip_Defining_Point_right",
+            "name": "Tip Defining Point - right",
+            "abbrv": "td_r",
+            "list": "Y",
+            "imageFile": "feature_point_tip_defining_point_right-frontal.png",
+            "description": "The nasal tip defining point (TDP) is the most anterior projection of the tip cartilages, usually corresponding to the apex of the lobular arch anatomically, and is typically identified externally where the light reflex is seen on the nasal tip.",
+            "references": "(39)",
+            "usedInMeasurements": [
+                "Tip/Lobule_Width",
+                "Tip/Lobule_Width_Surface",
+                "Lobule_-_Base_Ratio"
+            ],
+            "xVal": -5.3,
+            "yVal": -23.55,
+            "zVal": 101.67,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Trichion",
+            "name": "Trichion",
+            "abbrv": "tr",
+            "list": "Y",
+            "imageFile": "feature_point_trichion-frontal.png",
+            "description": "The point on the hairline in the midline of the forehead.",
+            "references": "(19)",
+            "usedInMeasurements": [
+                "Face_Length/Height",
+                "Face_Length/Height_Surface",
+                "Upper_Facial_Height"
+            ],
+            "xVal": 0.21,
+            "yVal": 96.4,
+            "zVal": 56.1,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Zygion_left",
+            "name": "Zygion - left",
+            "abbrv": "zy_l",
+            "list": "Y",
+            "imageFile": "feature_point_zygion_left-frontal.png",
+            "description": "The most lateral point of left zygomatic arch.",
+            "references": "(14)",
+            "usedInMeasurements": [
+                "Face_Width",
+                "Face_Width_Surface"
+            ],
+            "xVal": 65.51,
+            "yVal": -25.46,
+            "zVal": 69.01,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        },
+        {
+            "id": "Zygion_right",
+            "name": "Zygion - right",
+            "abbrv": "zy_r",
+            "list": "Y",
+            "imageFile": "feature_point_zygion_right-frontal.png",
+            "description": "The most lateral point of right zygomatic arch.",
+            "references": "(14)",
+            "usedInMeasurements": [
+                "Face_Width",
+                "Face_Width_Surface"
+            ],
+            "xVal": -67.46,
+            "yVal": -28.57,
+            "zVal": 65.69,
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "type": "Points"
+        }
+    ],
+    "measurements": [
+        {
+            "id": "Alar_Base_Width",
+            "name": "Alar Base Width",
+            "surfaceDistId": "Alar_Base_Width_Surface",
+            "imageFile": "measurement_distance_alar_base_width-basal.png",
+            "description": "The distance from alar base junction/alar crease - left (ac_l) to alar base junction/alar crease - right (ac_r)",
+            "type": "Distances",
+            "group": "Distances",
+            "list": "Y",
+            "references": "(25, 51)",
+            "usedFeatures": [
+                "Alar_Crest/Alar_Curvature/Alar_Base_Junction/Alar-Facial_Groove/Alar-Cheek_Junction/Alar_Crease_left",
+                "Alar_Crest/Alar_Curvature/Alar_Base_Junction/Alar-Facial_Groove/Alar-Cheek_Junction/Alar_Crease_right"
+            ],
+            "beginningPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "endPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "value": "35.65",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "$$\\sqrt{\\left(Ac_l.x-Ac_r.x\\right)^2+\\left(Ac_l.y-Ac_r.y\\right)^2+\\left(Ac_l.z-Ac_r.z\\right)^2}$$",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Columella_Length_I",
+            "name": "Columella Length",
+            "surfaceDistId": "Columella_Length_I_Surface",
+            "imageFile": "measurement_distance_columella_length_I-lateral(l).png",
+            "description": "The distance between subnasale (sn) and columella breakpoint (cb)",
+            "type": "Distances",
+            "group": "Distances",
+            "list": "Y",
+            "references": "(54)",
+            "usedFeatures": [
+                "Subnasale",
+                "Columellar_Break_Point"
+            ],
+            "beginningPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "endPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "value": "12.97",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "$$\\sqrt{\\left(Sn.x-C.x\\right)^2+\\left(Sn.y-C.y\\right)^2+\\left(Sn.z-C.z\\right)^2}$$",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Columella_Width_I",
+            "name": "Columella Width",
+            "surfaceDistId": "Columella_Width_I_Surface",
+            "imageFile": "measurement_distance_columella_width_I-basal.png",
+            "description": "The distance from subnasale - left (sn_l) to subnasale - right (sn_r)",
+            "type": "Distances",
+            "group": "Distances",
+            "list": "Y",
+            "references": "(12, 51, 52, 54)",
+            "usedFeatures": [
+                "Subnasale_left",
+                "Subnasale_right"
+            ],
+            "beginningPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "endPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "value": "16.10",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "$$\\sqrt{\\left(Sn’_l.x-Sn’_r.x\\right)^2+\\left(Sn’_l.y-Sn’_r.y\\right)^2+\\left(Sn’_l.z-Sn’_r.z\\right)^2}$$",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Distance_between_sill_base_junction_and_alar_flare",
+            "name": "Distance between sill-base junction and alar flare",
+            "surfaceDistId": "Distance_between_sill_base_junction_and_alar_flare_Surface",
+            "imageFile": "measurement_distance_distance_between_sill_base_junction_and_alar_flare.png",
+            "description": "The relative vertical relationship between these 2 points on basal view analysis.",
+            "type": "Distances",
+            "group": "Distances",
+            "list": "Y",
+            "references": "(10)",
+            "usedFeatures": [
+                "Sill-Base Junction_left",
+                "Alare/Alar_Flare_left"
+            ],
+            "beginningPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "endPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "value": "7.36",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Interalar_Distance",
+            "name": "Interalar Distance",
+            "surfaceDistId": "Interalar_Distance_Surface",
+            "imageFile": "measurement_distance_interalar_distance-frontal.png",
+            "description": "The distance from alare/alar flare - left (al_l) to alar/alar flare - right (al_r).",
+            "type": "Distances",
+            "group": "Distances",
+            "list": "Y",
+            "references": "(12, 18, 25, 48, 51, 59, 60",
+            "usedFeatures": [
+                "Alare/Alar_Flare_left",
+                "Alare/Alar_Flare_right"
+            ],
+            "beginningPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "endPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "value": "23.45",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "$$\\sqrt{\\left(Al_l.x-Al_r.x\\right)^2+\\left(Al_l.y-Al_r.y\\right)^2+\\left(Al_l.z-Al_r.z\\right)^2}$$",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Nasal_Bridge_Length",
+            "name": "Nasal Bridge Length",
+            "surfaceDistId": "Nasal_Bridge_Length_Surface",
+            "imageFile": "measurement_distance_nasal_bridge_length-lateral(l).png",
+            "description": "The distance from pronasale/tip (prn) to nasion (n)",
+            "type": "Distances",
+            "group": "Distances",
+            "list": "Y",
+            "references": "(17, 18, 51, 52)",
+            "usedFeatures": [
+                "Pronasale/Tip",
+                "Nasion/Radix"
+            ],
+            "beginningPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "endPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "value": "47.78",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "$$\\sqrt{\\left(Prn.x-N.x\\right)^2+\\left(Prn.y-N.y\\right)^2+\\left(Prn.z-N.z\\right)^2}$$",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Nasal_Tip_Projection",
+            "name": "Nasal Tip Projection",
+            "surfaceDistId": "Nasal_Tip_Projection_Surface",
+            "imageFile": "measurement_distance_nasal_tip_projection_I-lateral(l).png",
+            "description": "The distance from pronasale/Tip (prn) to subnasale (sn)",
+            "type": "Distances",
+            "group": "Distances",
+            "list": "Y",
+            "references": "(64)",
+            "usedFeatures": [
+                "Subnasale",
+                "Pronasale/Tip"
+            ],
+            "beginningPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "endPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "value": "23.53",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "$$\\sqrt{\\left(Prn.x-Sn.x\\right)^2+\\left(Prn.y-Sn.y\\right)^2+\\left(Prn.z-Sn.z\\right)^2}$$",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Alar_Base_Width_Surface",
+            "name": "Alar Base Width - Surface",
+            "flyDistId": "Alar_Base_Width",
+            "numberOfSegments": 36,
+            "imageFile": "measurement_distance_alar_base_width-basal.png",
+            "description": "The surface distance from alar base junction/alar crease - left (ac_l) to alar base junction/alar crease - right (ac_r)",
+            "type": "Distances - Surface",
+            "group": "Surface Distances",
+            "typeOfView": "basal",
+            "references": "Please check the corresponding 'not surface' measurement",
+            "referencesFly": "(25, 51)",
+            "storedPoints": [
+                {
+                    "x": 17.63,
+                    "y": -26.75,
+                    "z": 88.52
+                },
+                {
+                    "x": 16.61,
+                    "y": -27.17,
+                    "z": 89.41
+                },
+                {
+                    "x": 15.6,
+                    "y": -27.53,
+                    "z": 90.17
+                },
+                {
+                    "x": 14.6,
+                    "y": -27.78,
+                    "z": 90.68
+                },
+                {
+                    "x": 13.6,
+                    "y": -28.07,
+                    "z": 91.27
+                },
+                {
+                    "x": 12.6,
+                    "y": -28.35,
+                    "z": 91.83
+                },
+                {
+                    "x": 11.61,
+                    "y": -28.61,
+                    "z": 92.34
+                },
+                {
+                    "x": 10.61,
+                    "y": -28.92,
+                    "z": 92.99
+                },
+                {
+                    "x": 9.62,
+                    "y": -29.28,
+                    "z": 93.74
+                },
+                {
+                    "x": 8.63,
+                    "y": -29.67,
+                    "z": 94.58
+                },
+                {
+                    "x": 7.64,
+                    "y": -30.08,
+                    "z": 95.47
+                },
+                {
+                    "x": 6.65,
+                    "y": -30.46,
+                    "z": 96.27
+                },
+                {
+                    "x": 5.67,
+                    "y": -30.81,
+                    "z": 97.01
+                },
+                {
+                    "x": 4.7,
+                    "y": -31.11,
+                    "z": 97.63
+                },
+                {
+                    "x": 3.72,
+                    "y": -31.38,
+                    "z": 98.18
+                },
+                {
+                    "x": 2.75,
+                    "y": -31.54,
+                    "z": 98.46
+                },
+                {
+                    "x": 1.79,
+                    "y": -31.66,
+                    "z": 98.63
+                },
+                {
+                    "x": 0.82,
+                    "y": -31.67,
+                    "z": 98.56
+                },
+                {
+                    "x": -0.15,
+                    "y": -31.61,
+                    "z": 98.3
+                },
+                {
+                    "x": -1.11,
+                    "y": -31.48,
+                    "z": 97.89
+                },
+                {
+                    "x": -2.08,
+                    "y": -31.24,
+                    "z": 97.23
+                },
+                {
+                    "x": -3.06,
+                    "y": -30.99,
+                    "z": 96.53
+                },
+                {
+                    "x": -4.04,
+                    "y": -30.71,
+                    "z": 95.74
+                },
+                {
+                    "x": -5.02,
+                    "y": -30.41,
+                    "z": 94.92
+                },
+                {
+                    "x": -14.94,
+                    "y": -28.33,
+                    "z": 88.87
+                },
+                {
+                    "x": -15.94,
+                    "y": -28.1,
+                    "z": 88.2
+                }
+            ],
+            "list": "Y",
+            "usedFeatures": [
+                "Alar_Crest/Alar_Curvature/Alar_Base_Junction/Alar-Facial_Groove/Alar-Cheek_Junction/Alar_Crease_left",
+                "Alar_Crest/Alar_Curvature/Alar_Base_Junction/Alar-Facial_Groove/Alar-Cheek_Junction/Alar_Crease_right"
+            ],
+            "value": "43.68",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Columella_Length_I_Surface",
+            "name": "Columella Length - Surface",
+            "flyDistId": "Columella_Length_I",
+            "numberOfSegments": 13,
+            "imageFile": "measurement_distance_columella_length_I-lateral(l).png",
+            "description": "The surface distance between subnasale (sn) and columella breakpoint (cb)",
+            "type": "Distances - Surface",
+            "group": "Surface Distances",
+            "typeOfView": "front",
+            "references": "Please check the corresponding 'not surface' measurement",
+            "referencesFly": "(54)",
+            "storedPoints": [
+                {
+                    "x": -0.6723076923076924,
+                    "y": -37.13384615384615,
+                    "z": 89.95
+                },
+                {
+                    "x": -0.5346153846153847,
+                    "y": -36.5776923076923,
+                    "z": 90.22
+                },
+                {
+                    "x": -0.39692307692307693,
+                    "y": -36.02153846153846,
+                    "z": 90.68
+                },
+                {
+                    "x": -0.25923076923076926,
+                    "y": -35.465384615384615,
+                    "z": 91.24
+                },
+                {
+                    "x": -0.1215384615384616,
+                    "y": -34.90923076923077,
+                    "z": 92.16
+                },
+                {
+                    "x": 0.016153846153846185,
+                    "y": -34.35307692307692,
+                    "z": 93.17
+                },
+                {
+                    "x": 0.15384615384615385,
+                    "y": -33.79692307692308,
+                    "z": 94.21
+                },
+                {
+                    "x": 0.2915384615384615,
+                    "y": -33.24076923076923,
+                    "z": 95.45
+                },
+                {
+                    "x": 0.4292307692307693,
+                    "y": -32.684615384615384,
+                    "z": 96.7
+                },
+                {
+                    "x": 0.5669230769230769,
+                    "y": -32.128461538461536,
+                    "z": 97.68
+                },
+                {
+                    "x": 0.7046153846153846,
+                    "y": -31.572307692307692,
+                    "z": 98.69
+                },
+                {
+                    "x": 0.8423076923076924,
+                    "y": -31.01615384615385,
+                    "z": 99.59
+                }
+            ],
+            "list": "Y",
+            "usedFeatures": [
+                "Subnasale",
+                "Columellar_Break_Point"
+            ],
+            "value": "13.25",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Columella_Width_I_Surface",
+            "name": "Columella Width - Surface",
+            "flyDistId": "Columella_Width_I",
+            "numberOfSegments": 17,
+            "imageFile": "measurement_distance_columella_width_I-basal.png",
+            "description": "The surface distance from subnasale - left (sn_l) to subnasale - right (sn_r)",
+            "type": "Distances - Surface",
+            "group": "Surface Distances",
+            "typeOfView": "steepBasal",
+            "references": "Please check the corresponding 'not surface' measurement",
+            "referencesFly": "(12, 51, 52, 54)",
+            "storedPoints": [
+                {
+                    "x": 8.95,
+                    "y": -32.3,
+                    "z": 90.23
+                },
+                {
+                    "x": 8.01,
+                    "y": -32.57,
+                    "z": 90.54
+                },
+                {
+                    "x": 7.07,
+                    "y": -32.94,
+                    "z": 90.9
+                },
+                {
+                    "x": 6.14,
+                    "y": -33.33,
+                    "z": 91.28
+                },
+                {
+                    "x": 5.2,
+                    "y": -33.8,
+                    "z": 91.7
+                },
+                {
+                    "x": 4.26,
+                    "y": -34.24,
+                    "z": 92.1
+                },
+                {
+                    "x": 3.33,
+                    "y": -34.63,
+                    "z": 92.47
+                },
+                {
+                    "x": 2.39,
+                    "y": -34.77,
+                    "z": 92.71
+                },
+                {
+                    "x": 1.46,
+                    "y": -34.85,
+                    "z": 92.92
+                },
+                {
+                    "x": 0.53,
+                    "y": -34.6,
+                    "z": 92.94
+                },
+                {
+                    "x": -0.4,
+                    "y": -34.3,
+                    "z": 92.94
+                },
+                {
+                    "x": -1.34,
+                    "y": -33.82,
+                    "z": 92.84
+                },
+                {
+                    "x": -2.27,
+                    "y": -33.3,
+                    "z": 92.73
+                },
+                {
+                    "x": -3.21,
+                    "y": -32.69,
+                    "z": 92.56
+                },
+                {
+                    "x": -4.14,
+                    "y": -32.14,
+                    "z": 92.42
+                },
+                {
+                    "x": -5.08,
+                    "y": -32.28,
+                    "z": 92.66
+                }
+            ],
+            "list": "Y",
+            "usedFeatures": [
+                "Subnasale_left",
+                "Subnasale_right"
+            ],
+            "value": "18.30",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Interalar_Distance_Surface",
+            "name": "Interalar Distance - Surface",
+            "flyDistId": "Interalar_Distance",
+            "numberOfSegments": 24,
+            "imageFile": "measurement_distance_interalar_distance-frontal.png",
+            "description": "The surface distance from alare/alar flare - left (al_l) to alar/alar flare - right (al_r).",
+            "type": "Distances - Surface",
+            "group": "Surface Distances",
+            "typeOfView": "front",
+            "references": "Please check the corresponding 'not surface' measurement",
+            "referencesFly": "(12, 18, 25, 48, 51, 59, 60",
+            "storedPoints": [
+                {
+                    "x": 13.503333333333334,
+                    "y": -26.53375,
+                    "z": 92.43
+                },
+                {
+                    "x": 12.546666666666667,
+                    "y": -26.517500000000002,
+                    "z": 93.43
+                },
+                {
+                    "x": 11.59,
+                    "y": -26.50125,
+                    "z": 94.74
+                },
+                {
+                    "x": 10.633333333333335,
+                    "y": -26.485,
+                    "z": 96.03
+                },
+                {
+                    "x": 9.676666666666668,
+                    "y": -26.46875,
+                    "z": 97.4
+                },
+                {
+                    "x": 8.72,
+                    "y": -26.4525,
+                    "z": 98.77
+                },
+                {
+                    "x": 7.7633333333333345,
+                    "y": -26.43625,
+                    "z": 100.05
+                },
+                {
+                    "x": 6.8066666666666675,
+                    "y": -26.42,
+                    "z": 101.3
+                },
+                {
+                    "x": 5.850000000000001,
+                    "y": -26.403750000000002,
+                    "z": 102.1
+                },
+                {
+                    "x": 4.893333333333334,
+                    "y": -26.3875,
+                    "z": 102.8
+                },
+                {
+                    "x": 3.9366666666666674,
+                    "y": -26.37125,
+                    "z": 103.41
+                },
+                {
+                    "x": 2.9800000000000004,
+                    "y": -26.355,
+                    "z": 103.66
+                },
+                {
+                    "x": 2.0233333333333334,
+                    "y": -26.33875,
+                    "z": 103.9
+                },
+                {
+                    "x": 1.0666666666666682,
+                    "y": -26.3225,
+                    "z": 104
+                },
+                {
+                    "x": 0.11000000000000121,
+                    "y": -26.30625,
+                    "z": 103.81
+                },
+                {
+                    "x": -0.8466666666666658,
+                    "y": -26.29,
+                    "z": 103.59
+                },
+                {
+                    "x": -1.803333333333331,
+                    "y": -26.27375,
+                    "z": 103.25
+                },
+                {
+                    "x": -2.759999999999998,
+                    "y": -26.2575,
+                    "z": 102.59
+                },
+                {
+                    "x": -3.716666666666665,
+                    "y": -26.24125,
+                    "z": 101.98
+                },
+                {
+                    "x": -4.673333333333332,
+                    "y": -26.225,
+                    "z": 101.02
+                },
+                {
+                    "x": -5.629999999999999,
+                    "y": -26.208750000000002,
+                    "z": 99.95
+                },
+                {
+                    "x": -6.586666666666666,
+                    "y": -26.1925,
+                    "z": 98.79
+                },
+                {
+                    "x": -7.543333333333333,
+                    "y": -26.17625,
+                    "z": 97.45
+                }
+            ],
+            "list": "Y",
+            "usedFeatures": [
+                "Alare/Alar_Flare_left",
+                "Alare/Alar_Flare_right"
+            ],
+            "value": "31.88",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Nasal_Bridge_Length_Surface",
+            "name": "Nasal Bridge Length - Surface",
+            "flyDistId": "Nasal_Bridge_Length",
+            "numberOfSegments": 48,
+            "imageFile": "measurement_distance_nasal_bridge_length-lateral(l).png",
+            "description": "The surface distance from pronasale/tip (prn) to nasion (n)",
+            "type": "Distances - Surface",
+            "group": "Surface Distances",
+            "typeOfView": "front",
+            "references": "Please check the corresponding 'not surface' measurement",
+            "referencesFly": "(17, 18, 51, 52)",
+            "storedPoints": [
+                {
+                    "x": 2.8956250000000003,
+                    "y": -18.761666666666667,
+                    "z": 103.92
+                },
+                {
+                    "x": 2.86125,
+                    "y": -17.933333333333334,
+                    "z": 103.53
+                },
+                {
+                    "x": 2.8268750000000002,
+                    "y": -17.105,
+                    "z": 103.08
+                },
+                {
+                    "x": 2.7925,
+                    "y": -16.276666666666667,
+                    "z": 102.57
+                },
+                {
+                    "x": 2.758125,
+                    "y": -15.448333333333332,
+                    "z": 101.93
+                },
+                {
+                    "x": 2.7237500000000003,
+                    "y": -14.62,
+                    "z": 101.35
+                },
+                {
+                    "x": 2.689375,
+                    "y": -13.791666666666664,
+                    "z": 100.74
+                },
+                {
+                    "x": 2.6550000000000002,
+                    "y": -12.963333333333331,
+                    "z": 100.07
+                },
+                {
+                    "x": 2.620625,
+                    "y": -12.134999999999998,
+                    "z": 99.4
+                },
+                {
+                    "x": 2.58625,
+                    "y": -11.306666666666665,
+                    "z": 98.74
+                },
+                {
+                    "x": 2.551875,
+                    "y": -10.478333333333332,
+                    "z": 98.05
+                },
+                {
+                    "x": 2.5175,
+                    "y": -9.649999999999999,
+                    "z": 97.36
+                },
+                {
+                    "x": 2.4831250000000002,
+                    "y": -8.821666666666665,
+                    "z": 96.62
+                },
+                {
+                    "x": 2.44875,
+                    "y": -7.9933333333333305,
+                    "z": 95.87
+                },
+                {
+                    "x": 2.414375,
+                    "y": -7.164999999999997,
+                    "z": 95.14
+                },
+                {
+                    "x": 2.38,
+                    "y": -6.336666666666664,
+                    "z": 94.46
+                },
+                {
+                    "x": 2.345625,
+                    "y": -5.508333333333331,
+                    "z": 93.78
+                },
+                {
+                    "x": 2.3112500000000002,
+                    "y": -4.679999999999998,
+                    "z": 93.09
+                },
+                {
+                    "x": 2.276875,
+                    "y": -3.851666666666663,
+                    "z": 92.4
+                },
+                {
+                    "x": 2.2425,
+                    "y": -3.02333333333333,
+                    "z": 91.69
+                },
+                {
+                    "x": 2.208125,
+                    "y": -2.1949999999999967,
+                    "z": 90.95
+                },
+                {
+                    "x": 2.17375,
+                    "y": -1.3666666666666636,
+                    "z": 90.21
+                },
+                {
+                    "x": 2.1393750000000002,
+                    "y": -0.5383333333333304,
+                    "z": 89.48
+                },
+                {
+                    "x": 2.105,
+                    "y": 0.2900000000000027,
+                    "z": 88.75
+                },
+                {
+                    "x": 2.070625,
+                    "y": 1.1183333333333358,
+                    "z": 88.02
+                },
+                {
+                    "x": 2.03625,
+                    "y": 1.946666666666669,
+                    "z": 87.34
+                },
+                {
+                    "x": 2.001875,
+                    "y": 2.7750000000000057,
+                    "z": 86.69
+                },
+                {
+                    "x": 1.9675,
+                    "y": 3.603333333333339,
+                    "z": 86.05
+                },
+                {
+                    "x": 1.933125,
+                    "y": 4.431666666666672,
+                    "z": 85.4
+                },
+                {
+                    "x": 1.8987500000000002,
+                    "y": 5.260000000000005,
+                    "z": 84.76
+                },
+                {
+                    "x": 1.8643750000000001,
+                    "y": 6.088333333333338,
+                    "z": 84.12
+                },
+                {
+                    "x": 1.83,
+                    "y": 6.916666666666671,
+                    "z": 83.52
+                },
+                {
+                    "x": 1.795625,
+                    "y": 7.7450000000000045,
+                    "z": 83.01
+                },
+                {
+                    "x": 1.76125,
+                    "y": 8.573333333333338,
+                    "z": 82.51
+                },
+                {
+                    "x": 1.7268750000000002,
+                    "y": 9.40166666666667,
+                    "z": 82.01
+                },
+                {
+                    "x": 1.6925000000000001,
+                    "y": 10.230000000000004,
+                    "z": 81.51
+                },
+                {
+                    "x": 1.658125,
+                    "y": 11.058333333333337,
+                    "z": 81.02
+                },
+                {
+                    "x": 1.62375,
+                    "y": 11.886666666666674,
+                    "z": 80.64
+                },
+                {
+                    "x": 1.589375,
+                    "y": 12.715000000000007,
+                    "z": 80.26
+                },
+                {
+                    "x": 1.5550000000000002,
+                    "y": 13.54333333333334,
+                    "z": 79.89
+                },
+                {
+                    "x": 1.5206250000000001,
+                    "y": 14.371666666666673,
+                    "z": 79.51
+                },
+                {
+                    "x": 1.48625,
+                    "y": 15.200000000000006,
+                    "z": 79.14
+                },
+                {
+                    "x": 1.451875,
+                    "y": 16.02833333333334,
+                    "z": 78.78
+                },
+                {
+                    "x": 1.4175,
+                    "y": 16.856666666666673,
+                    "z": 78.54
+                },
+                {
+                    "x": 1.383125,
+                    "y": 17.685000000000006,
+                    "z": 78.28
+                },
+                {
+                    "x": 1.3487500000000001,
+                    "y": 18.51333333333334,
+                    "z": 78.05
+                },
+                {
+                    "x": 1.314375,
+                    "y": 19.341666666666672,
+                    "z": 77.93
+                }
+            ],
+            "list": "Y",
+            "usedFeatures": [
+                "Pronasale/Tip",
+                "Nasion/Radix"
+            ],
+            "value": "48.34",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Nasal_Tip_Projection_Surface",
+            "name": "Nasal Tip Projection - Surface",
+            "numberOfSegments": 24,
+            "imageFile": "measurement_distance_nasal_tip_projection_I-lateral(l).png",
+            "description": "The surface distance from pronasale/Tip (prn) to subnasale (sn)",
+            "type": "Distances - Surface",
+            "group": "Surface Distances",
+            "typeOfView": "front",
+            "references": "Please check the corresponding 'not surface' measurement",
+            "referencesFly": "(64)",
+            "storedPoints": [
+                {
+                    "x": -0.6541666666666667,
+                    "y": -36.93583333333333,
+                    "z": 90.04
+                },
+                {
+                    "x": -0.49833333333333335,
+                    "y": -36.181666666666665,
+                    "z": 90.47
+                },
+                {
+                    "x": -0.3425,
+                    "y": -35.427499999999995,
+                    "z": 91.22
+                },
+                {
+                    "x": -0.18666666666666665,
+                    "y": -34.67333333333333,
+                    "z": 92.5
+                },
+                {
+                    "x": -0.030833333333333268,
+                    "y": -33.91916666666666,
+                    "z": 93.88
+                },
+                {
+                    "x": 0.125,
+                    "y": -33.165,
+                    "z": 95.5
+                },
+                {
+                    "x": 0.2808333333333335,
+                    "y": -32.41083333333333,
+                    "z": 97.06
+                },
+                {
+                    "x": 0.43666666666666676,
+                    "y": -31.656666666666666,
+                    "z": 98.43
+                },
+                {
+                    "x": 0.5925,
+                    "y": -30.9025,
+                    "z": 99.65
+                },
+                {
+                    "x": 0.7483333333333335,
+                    "y": -30.148333333333333,
+                    "z": 100.6
+                },
+                {
+                    "x": 0.9041666666666668,
+                    "y": -29.394166666666663,
+                    "z": 101.55
+                },
+                {
+                    "x": 1.06,
+                    "y": -28.64,
+                    "z": 102.26
+                },
+                {
+                    "x": 1.2158333333333333,
+                    "y": -27.88583333333333,
+                    "z": 102.96
+                },
+                {
+                    "x": 1.371666666666667,
+                    "y": -27.131666666666668,
+                    "z": 103.64
+                },
+                {
+                    "x": 1.5275000000000003,
+                    "y": -26.377499999999998,
+                    "z": 103.98
+                },
+                {
+                    "x": 1.6833333333333336,
+                    "y": -25.623333333333335,
+                    "z": 104.31
+                },
+                {
+                    "x": 1.8391666666666668,
+                    "y": -24.869166666666665,
+                    "z": 104.65
+                },
+                {
+                    "x": 2.150833333333334,
+                    "y": -23.360833333333332,
+                    "z": 104.85
+                },
+                {
+                    "x": 2.306666666666667,
+                    "y": -22.60666666666667,
+                    "z": 104.98
+                },
+                {
+                    "x": 2.4625000000000004,
+                    "y": -21.8525,
+                    "z": 104.89
+                },
+                {
+                    "x": 2.6183333333333336,
+                    "y": -21.098333333333333,
+                    "z": 104.75
+                },
+                {
+                    "x": 2.774166666666667,
+                    "y": -20.344166666666666,
+                    "z": 104.57
+                }
+            ],
+            "list": "Y",
+            "usedFeatures": [
+                "Subnasale",
+                "Pronasale/Tip"
+            ],
+            "value": "26.03",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "",
+            "rangeStart": "1",
+            "rangeEnd": "200"
+        },
+        {
+            "id": "Interalar_Angle",
+            "name": "Interalar Angle",
+            "imageFile": "measurement_angle_interalar_angle-basal.png",
+            "description": "The angle from alare/alar flare – right (al_r) to nasal tip/pronasale (prn) to alare/alar flare – left (al_l).",
+            "type": "Angles",
+            "group": "Angles",
+            "list": "Y",
+            "references": "(52, 79)",
+            "usedFeatures": [
+                "Pronasale/Tip",
+                "Alare/Alar_Flare_left",
+                "Alare/Alar_Flare_right"
+            ],
+            "linePointsOrder": [
+                "Alare/Alar_Flare_right",
+                "Pronasale/Tip",
+                "Alare/Alar_Flare_left"
+            ],
+            "value": "93.64",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "V1=$$<\\left(Al_l.x-Prn.x\\right),\\left(Al_l.y-Prn.y\\right),\\left(Al_l.z-Prn.z\\right)>$$ V2=$$<\\left(Prn.x-Al_r.x\\right),\\left(Prn.y-Al_r.y\\right),\\left(Prn.z-Al_r.z\\right)>$$$$\\theta=\\cos^{-1}(\\frac{V1\\bullet V2}{|V1||V2|})$$"
+        },
+        {
+            "id": "Nasal_Tip_Angle",
+            "name": "Nasal Tip Angle",
+            "imageFile": "measurement_angle_nasal_tip_angle-lateral(l).png",
+            "description": "The angle between nasion/radix (n) to pronasale/tip (prn) to subnasale (sn).",
+            "type": "Angles",
+            "group": "Angles",
+            "list": "Y",
+            "references": "(12, 25, 52)",
+            "usedFeatures": [
+                "Pronasale/Tip",
+                "Nasion/Radix",
+                "Subnasale"
+            ],
+            "linePointsOrder": [
+                "Subnasale",
+                "Pronasale/Tip",
+                "Nasion/Radix"
+            ],
+            "value": "73.04",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "V1=$$<\\left(N.x-Prn.x\\right),\\left(N.y-Prn.y\\right),\\left(N.z-Prn.z\\right)>$$ V2=$$<\\left(Prn.x-Sn.x\\right),\\left(Prn.y-Sn.y\\right),\\left(Prn.z-Sn.z\\right)>$$$$\\theta=\\cos^{-1}(\\frac{V1\\bullet V2}{|V1||V2|})$$"
+        },
+        {
+            "id": "Nasofrontal_Angle",
+            "name": "Nasofrontal Angle",
+            "imageFile": "measurement_angle_nasofrontal_angle-lateral(l).png",
+            "description": "The angle from glabella (g) to nasion/radix (n) to pronasale/tip (prn)",
+            "type": "Angles",
+            "group": "Angles",
+            "list": "Y",
+            "references": "(20, 59, 78)",
+            "usedFeatures": [
+                "Glabella",
+                "Nasion/Radix",
+                "Pronasale/Tip"
+            ],
+            "value": "138.72",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "V1=$$<\\left(N.x-G.x\\right),\\left(N.y-G.y\\right),\\left(N.z-G.z\\right)>$$ V2=$$<\\left(N.x-Prn.x\\right),\\left(N.y-Prn.y\\right),\\left(N.z-Prn.z\\right)>$$$$\\theta=\\cos^{-1}(\\frac{V1\\bullet V2}{|V1||V2|})$$"
+        },
+        {
+            "id": "Nasal_Tip_Projection:_Goode",
+            "name": "Nasal Tip Projection: Goode",
+            "imageFile": "measurement_ratio_nasal_tip_projection_goode-lateral(l).png",
+            "description": "The distance from pronasale (prn) to alar base junction/alar crease - right (ac_r) divided by the distance from nasion (n) to nasal tip/pronasale (prn).",
+            "type": "Ratios",
+            "group": "Ratios",
+            "list": "Y",
+            "references": "(85, 86, 89)",
+            "usedFeatures": [
+                "Pronasale/Tip",
+                "Nasion/Radix",
+                "Alar_Crest/Alar_Curvature/Alar_Base_Junction/Alar-Facial_Groove/Alar-Cheek_Junction/Alar_Crease_left"
+            ],
+            "value": "0.50",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "$$\\frac{\\sqrt{\\left(Ac_l.x-Prn.x\\right)^2+\\left(Ac_l.y-Prn.y\\right)^2+\\left(Ac_l.z-Prn.z\\right)^2}}{\\sqrt{\\left(Prn.x-N.x\\right)^2+\\left(Prn.y-N.y\\right)^2+\\left(Prn.z-N.z\\right)^2}}$$"
+        },
+        {
+            "id": "Nasal_Width-Length_Ratio",
+            "name": "Nasal Width-Length Ratio",
+            "imageFile": "measurement_ratio_nasal_width_length_ratio-frontal.png",
+            "description": "The alar base width divided by the nasal bridge length.",
+            "type": "Ratios",
+            "group": "Ratios",
+            "list": "Y",
+            "references": "(56, 90)",
+            "usedFeatures": [
+                "Alare/Alar_Flare_left",
+                "Alare/Alar_Flare_right",
+                "Pronasale/Tip",
+                "Nasion/Radix"
+            ],
+            "value": "0.49",
+            "cameraX": "",
+            "cameraY": "",
+            "cameraZ": "",
+            "formula": "$$\\frac{Interalar Distance}{Nasal Bridge Length}$$ $$\\frac{\\sqrt{\\left(Al_r.x-Al_l.x\\right)^2+\\left(Al_r.y-Al_l.y\\right)^2+\\left(Al_r.z-Al_l.z\\right)^2}}{\\sqrt{\\left(Prn.x-N.x\\right)^2+\\left(Prn.y-N.y\\right)^2+\\left(Prn.z-N.z\\right)^2}}$$"
+        }
+    ]
+}
